@@ -5,6 +5,13 @@ Registra cada oferta (empresa, puesto, ubicación, enlace, salario, fecha y nota
 entre estados — *Me interesa*, *Enviada*, *Entrevista*, *Oferta*, *Descartada* — y consulta
 estadísticas de tu búsqueda, como la tasa de respuesta.
 
+## Demo
+
+- **App en producción:** https://postula-olive.vercel.app
+- **Usuario de prueba:** `demo@postula.app` / `Postula-e01e89c4` (cuenta solo de demostración, con datos de ejemplo)
+
+También puedes crear tu propia cuenta desde *Crear cuenta*.
+
 ## Funcionalidades
 
 - Registro e inicio de sesión con correo y contraseña (Supabase Auth).
